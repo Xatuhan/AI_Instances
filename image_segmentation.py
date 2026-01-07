@@ -98,7 +98,7 @@ def display_segmented_images(original_bgr, overlay_bgr, mask):
     cv2.waitKey(0)
     cv2.destroyAllWindows()
 
-#  Tkinter UI Pythonda çalışan basit ui için kullandım
+#  Tkinter UI Pythonda çalışan basit ui için 
 app = tk.Tk()
 app.title("Image Segmentation Tool (Watershed)")
 
